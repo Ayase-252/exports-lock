@@ -1,0 +1,20 @@
+{
+  "name": "exports-lock",
+  "version": "0.1.0",
+  "description": "A library to protect integrity of packages in Node.js",
+  "main": "lib/index.js",
+  "keywords": ["security", "package"],
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "ayase-252<bitdqy@hotmail.com>(http://ayase.moe)",
+  "repository": "github:Ayase-252/exports-lock",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "eslint": "^5.9.0"
+  }
+}
