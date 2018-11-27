@@ -1,6 +1,6 @@
 {
   "name": "exports-lock",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A library to protect integrity of packages in Node.js",
   "main": "lib/index.js",
   "keywords": ["security", "package"],
@@ -13,8 +13,5 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^5.2.0"
-  },
-  "dependencies": {
-    "eslint": "^5.9.0"
   }
 }
