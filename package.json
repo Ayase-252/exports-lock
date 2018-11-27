@@ -7,7 +7,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "ayase-252<bitdqy@hotmail.com>(http://ayase.moe)",
+  "author": "ayase-252<bitdqy@hotmail.com>(https://ayase.moe)",
   "repository": "github:Ayase-252/exports-lock",
   "license": "MIT",
   "devDependencies": {
